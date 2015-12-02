@@ -1,2 +1,7 @@
 # pre-commit-jshint
-A script to install a jshint pre-commit hook
+A script to install jshint & a jshint pre-commit hook
+
+Copy to pre-commit.sh to the root of your git repository and execute the script:
+./pre-commit.sh
+
+Done.
