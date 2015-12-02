@@ -5,6 +5,7 @@ Copy to pre-commit.sh to the root of your git repository and execute the script:
 ```
 chmod +x pre-commit.sh
 ./pre-commit.sh
+rm pre-commit.sh
 ```
 
 Done.
